@@ -1,0 +1,5 @@
+1 pizza 400
+2 sandwich 250
+3 salad 200
+4 soup 150
+5 salad 50
